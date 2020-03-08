@@ -1,1 +1,1 @@
-# every-single-password-checker
+# Every Password Checker
